@@ -1,1 +1,1 @@
-# breathingpractices
+# breathingpractices-app
